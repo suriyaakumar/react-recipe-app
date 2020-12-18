@@ -1,0 +1,26 @@
+h2, h3, h4, h6, p {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.card, .collection-item, .instructions, li {
+  font-family: 'Lato', sans-serif !important;
+}
+
+
+/* label underline focus color */
+ .input-field input[type=text], .input-field input[type=text]:active , .input-field input[type=text]:focus {
+  border-bottom: transparent !important;
+  box-shadow: transparent !important;
+  background-color: whitesmoke;
+  opacity: 0.5;
+  padding-left: 2%;
+ }
+
+ card-image {
+   width: inherit !important;
+ }
+
+.btn {
+  height: 3.27rem !important;
+}
+
