@@ -42,9 +42,9 @@ this.setState({
             <h4 className="center header">{this.state.recipe.title}</h4>
             <h6 className="center-align"><a href={this.state.recipe.sourceUrl}>{this.state.recipe.sourceName}</a></h6>
             <div className="row center">
-               <FacebookShareButton url={"http://localhost:3000/recipe/" + this.state.recipe.id} title={this.state.recipe.title} ><FacebookIcon size={36}/></FacebookShareButton>
-               <TwitterShareButton title={this.state.recipe.title} url={this.state.recipe.image}><TwitterIcon size={36}/></TwitterShareButton>
-               <PinterestShareButton media={this.state.recipe.image} title={this.state.recipe.title}><PinterestIcon size={36}/></PinterestShareButton>
+               <FacebookShareButton url={"https://reacipe.netlify.app/recipe/" + this.state.recipe.id} title={this.state.recipe.title} ><FacebookIcon size={36}/></FacebookShareButton>
+               <TwitterShareButton title={this.state.recipe.title} url={"https://reacipe.netlify.app" + this.state.recipe.id}><TwitterIcon size={36}/></TwitterShareButton>
+               <PinterestShareButton media={this.state.recipe.image} title={this.state.recipe.title} description={"https://reacipe.netlify.app" + this.state.recipe.id}><PinterestIcon size={36}/></PinterestShareButton>
             </div>
             </div>
             <div className="divider"></div>
