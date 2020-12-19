@@ -39,12 +39,12 @@ this.setState({
      return(
         <div className="container">
             <div className="section">
-            <h4 className="center header">{this.state.recipe.title}</h4>
+            <h4 className="center header"cd recipe>{this.state.recipe.title}</h4>
             <h6 className="center-align"><a href={this.state.recipe.sourceUrl}>{this.state.recipe.sourceName}</a></h6>
             <div className="row center">
-               <FacebookShareButton url={"https://reacipe.netlify.app/recipe/" + this.state.recipe.id} title={this.state.recipe.title} ><FacebookIcon size={36}/></FacebookShareButton>
-               <TwitterShareButton title={this.state.recipe.title} url={"https://reacipe.netlify.app/recipe/" + this.state.recipe.id}><TwitterIcon size={36}/></TwitterShareButton>
-               <PinterestShareButton url={"https://reacipe.netlify.app/recipe/" + this.state.recipe.id} media={this.state.recipe.image}><PinterestIcon size={36}/></PinterestShareButton>
+               <FacebookShareButton url={"https://reacipe.netlify.app/recipe/"+this.state.recipe.id} title={this.state.recipe.title} ><FacebookIcon size={36}/></FacebookShareButton>
+               <TwitterShareButton title={this.state.recipe.title} url={"https://reacipe.netlify.app/recipe/"+this.state.recipe.id}><TwitterIcon size={36}/></TwitterShareButton>
+               <PinterestShareButton url={"https://reacipe.netlify.app/recipe/"+this.state.recipe.id} media={this.state.recipe.image}><PinterestIcon size={36}/></PinterestShareButton>
             </div>
             </div>
             <div className="divider"></div>
