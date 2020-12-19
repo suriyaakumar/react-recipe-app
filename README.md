@@ -10,11 +10,13 @@
 
 # Screenshots
 
+> Go to /screenshots in this repository to check out screenshots of this web app.
+
 <p float="left">
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-1.png" width="450"/>
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-2.png" width="450"/>
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-3.png" width="450"/>  
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-1.jpg" width="300"/>
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-2.jpg" width="300"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-1.png" width="700"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-2.png" width="700"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-3.png" width="700"/>  
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-1.jpg" width="500"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-2.jpg" width="500"/>
 </p>          
 
