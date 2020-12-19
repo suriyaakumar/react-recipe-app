@@ -11,7 +11,7 @@ class Feed extends Component {
   }
   
   componentDidMount(){
-    Axios.get(`https://api.spoonacular.com/recipes/random?number=10&apiKey=${API_KEY}`).then(res => {
+   Axios.get(`https://api.spoonacular.com/recipes/random?number=1&apiKey=${API_KEY}`).then(res => {
       this.setState({
       list: res.data.recipes
     });
@@ -61,7 +61,7 @@ const rowsList = this.state.list.length
      row[1] ? (
     <div className="col s12 m5 offset-m2">
         <div className="card medium  z-depth-4">
-        <div className="card-image ">
+        <div className="card-image">
         <img alt="" className="responsive-img" src={row[1].image}/>
         </div>
         <div className="card-content">
@@ -80,10 +80,7 @@ const rowsList = this.state.list.length
   
   return(
    <div>
-     <div className="parallax-container">
-       <div className="parallax"> 
-         <img alt="" src="https://source.unsplash.com/4ZTCtZnc-G4/5930×3953" />
-       </div>
+     <div className="reacipe-background parallax-container">
         <div className="container">
         <h2 className="header center yellow-text row">SEARCH FROM  OVER 350,000  RECIPES AND  LEARN HOW TO  MAKE 'EM</h2>   
         <form onSubmit={this.returnResults} className="row">   
