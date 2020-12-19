@@ -16,7 +16,7 @@
 <img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-1.png" width="700"/>
 <img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-2.png" width="700"/>
 <img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-3.png" width="700"/>  
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-1.jpg" width="500"/>
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-2.jpg" width="500"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-1.jpg" width="250"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-2.jpg" width="250"/>
 </p>          
 
