@@ -8,3 +8,9 @@
 * Learn about the recipe's ingredients, health score, servings, minutes required to cook, etc. 
 * Implemented sharing options for social media websites namely Facebook, Twitter and Pinterest.
 
+# Screenshots
+
+<p float="left">
+<img src="httpd" />
+</p>          
+
