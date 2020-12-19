@@ -11,6 +11,10 @@
 # Screenshots
 
 <p float="left">
-<img src="httpd" />
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/master/screenshots/pc-1.png" width="450"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/master/screenshots/pc-2.png" width="450"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/master/screenshots/pc-3.png" width="450"/>  
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/master/screenshots/mobile-1.jpg" width="300"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/master/screenshots/mobile-2.jpg" width="300"/>
 </p>          
 
