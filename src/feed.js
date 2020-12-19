@@ -11,7 +11,7 @@ class Feed extends Component {
   }
   
   componentDidMount(){
-   Axios.get(`https://api.spoonacular.com/recipes/random?number=1&apiKey=${API_KEY}`).then(res => {
+   Axios.get(`https://api.spoonacular.com/recipes/random?number=10&apiKey=${API_KEY}`).then(res => {
       this.setState({
       list: res.data.recipes
     });
