@@ -15,8 +15,8 @@
 > Go to /screenshots in this repository to check out screenshots of this web app.
 
 <p float="left">
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-1.png" width="600"/>
-<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-3.png" width="600"/>  
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-1.png" width="1000"/>
+<img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/pc-3.png" width="1000"/>  
 <img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-1.jpg" width="250"/>
 <img src="https://github.com/suriyaakumar/react-recipe-app/blob/main/screenshots/mobile-2.jpg" width="250"/>
 </p>          
